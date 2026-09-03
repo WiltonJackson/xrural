@@ -1,5 +1,5 @@
-🌱 Xrural
-www.xrural.com.br
+#🌱 Xrural
+##www.xrural.com.br
 Marketplace digital para conectar o campo ao mercado.
 
 A Xrural é uma plataforma de marketplace voltada para o agronegócio brasileiro, criada para conectar produtores rurais, compradores, fornecedores e prestadores de serviços em um único ambiente digital.
